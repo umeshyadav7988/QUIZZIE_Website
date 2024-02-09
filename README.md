@@ -1,4 +1,4 @@
-# Quiz App
+# Quizzie App
 
 This is a simple quiz application built using React, JSON, JavaScript, and CSS.
 
